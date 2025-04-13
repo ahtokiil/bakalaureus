@@ -1,1 +1,1 @@
-# bakalaureuset-
+## Bakalaureusetöö avalik koodivaramu
