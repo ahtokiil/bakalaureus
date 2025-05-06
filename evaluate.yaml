@@ -1,0 +1,13 @@
+task: olympiad
+dataset_path: ahtokiil/olympiad_et
+
+test_split: train
+
+output_type: multiple_choice
+
+doc_to_text: "input"
+doc_to_target: "target"
+doc_to_choice: "choices"
+
+metric_list:
+  - metric: acc
