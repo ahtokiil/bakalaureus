@@ -1,0 +1,321 @@
+[
+    {
+        "id": "1",
+        "küsimus": "Eesti 2024. a puu oli tamm. Mis on õige väide tamme kohta?",
+        "valikud": [
+            "Tamme perekonnas on ainult üks liik, harilik tamm, kõik kultuuris kasvatatavad erinevad tammed on tema sordid",
+            "Tamme perekonnas on 12 erinevat liiki",
+            "Tamme lähisugulased (samas sugukonnas) on veel pöök ja kastan",
+            "Tamme lähisugulased (samas sugukonnas) on veel kask ja lepp",
+            "Tammesid kahjustavad pasknäärid, oravad ja metssead, kes söövad liiga palju tõrusid ära"
+        ],
+        "vastus": "C",
+        "punktid": "1",
+        "aasta": "2023",
+        "aste": "II",
+        "teema": "bioloogia"
+    },
+    {
+        "id": "2",
+        "küsimus": "Kuidas nimetatakse osade vetikate ja sammalde ning kõigi samblike keha, mis pole eristunud varreks ja lehtedeks või muudeks organiteks?",
+        "valikud": [
+            "Kallus",
+            "Kaller",
+            "Tallus",
+            "Talgud",
+            "Talbjas"
+        ],
+        "vastus": "C",
+        "punktid": "1",
+        "aasta": "2023",
+        "aste": "II",
+        "teema": "bioloogia"
+    },
+    {
+        "id": "3",
+        "küsimus": "Millest koosneb hulkrakne seen?",
+        "valikud": [
+            "Seenekübarast ja jalast",
+            "Juurest, varrest ja lehtedest",
+            "Seeneniidistikust ja vahel lisaks viljakehadest",
+            "Seenerakkudest ja vetikarakkudest"
+        ],
+        "vastus": "C",
+        "punktid": "1",
+        "aasta": "2023",
+        "aste": "II",
+        "teema": "bioloogia"
+    },
+    {
+        "id": "4",
+        "küsimus": "Mis on taimhõljum?",
+        "valikud": [
+            "Kalda-alalt niidetud taimestik, mis on veekogusse sattunud",
+            "Üldiselt silmale nähtamatud (mikroskoopilised) vetikad, kes hõljuvad vees vabalt",
+            "Veesisesed taimed, kes kasvavad üleni või peaaegu üleni vees"
+        ],
+        "vastus": "B",
+        "punktid": "1",
+        "aasta": "2023",
+        "aste": "II",
+        "teema": "bioloogia"
+    },
+    {
+        "id": "5",
+        "küsimus": "Kes on agarik?",
+        "valikud": [
+            "Haruldane Läänemeres elav loomaliik",
+            "Pruunvetikas, mida kasutatakse toorainena toiduaine-, kosmeetika- ja ravimitööstuses",
+            "Punavetikas, mida kasutatakse toorainena toiduaine-, kosmeetika- ja ravimitööstuses"
+        ],
+        "vastus": "C",
+        "punktid": "1",
+        "aasta": "2023",
+        "aste": "II",
+        "teema": "bioloogia"
+    },
+    {
+        "id": "6",
+        "küsimus": "Kaladel on üks eriline meeleelund, mis aitab tajuda vee liikumist ja võnkeid, olles nii abiks ruumis orienteerumisel. Mis on selle elundi nimi?",
+        "valikud": [
+            "Sisekõrv",
+            "Poised",
+            "Küljejoon",
+            "Elektrielund",
+            "Uimekiired"
+        ],
+        "vastus": "C",
+        "punktid": "1",
+        "aasta": "2023",
+        "aste": "II",
+        "teema": "bioloogia"
+    },
+    {
+        "id": "7",
+        "küsimus": "Milline väide lindude kohta on õige?",
+        "valikud": [
+            "Kõigil lindudel on jalgadel 4 varvast",
+            "Kõik linnud hingavad kopsudega",
+            "Kõik linnud lendavad",
+            "Kõigi lindude munad on kaetud nahkse koorega",
+            "Kõigi lindude pojad suudavad peale koorumist ja udusulgede kuivamist kohe vanematele järgneda"
+        ],
+        "vastus": "B",
+        "punktid": "1",
+        "aasta": "2023",
+        "aste": "II",
+        "teema": "bioloogia"
+    },
+    {
+        "id": "8",
+        "küsimus": "Suured tammed ei kasva kuigi sageli koos männiga palumetsas. Mis on kõige olulisem põhjus, et nad seal ei kasva?",
+        "valikud": [
+            "Männid kasvavad kiiremini ja varjavad valguse",
+            "Mändidel toituvad putukad on tammele väga ohtlikud",
+            "Muld on liigniiske",
+            "Muld on liiga kuiv ja toitainetevaene",
+            "Palumetsas käib sügisel palju seenelisi, kes tallavad väikesed tammed ära"
+        ],
+        "vastus": "D",
+        "punktid": "1",
+        "aasta": "2023",
+        "aste": "II",
+        "teema": "bioloogia"
+    },
+    {
+        "id": "9",
+        "küsimus": "Eesti kõige liigirikkam looduslik kooslus on",
+        "valikud": [
+            "park",
+            "puisniit",
+            "botaanikaaed"
+        ],
+        "vastus": "B",
+        "punktid": "1",
+        "aasta": "2023",
+        "aste": "II",
+        "teema": "bioloogia"
+    },
+    {
+        "id": "10",
+        "küsimus": "Mis on bioonika?",
+        "valikud": [
+            "Teadusharu, mis uurib bioloogilisi süsteeme ja püüab neid teadmisi rakendada tehniliste probleemide lahendamiseks",
+            "Teadusharu, mis käsitleb elusorganismide ja koosluste levikut maakeral",
+            "Teadusharu, mis uurib organismide keemilist koostist ja omadusi",
+            "Teadusharu, mis tegeleb erinevate terviseprobleemidega, uurides peamiselt rakke ja rakkudes toimuvaid protsesse"
+        ],
+        "vastus": "A",
+        "punktid": "1",
+        "aasta": "2023",
+        "aste": "II",
+        "teema": "bioloogia"
+    },
+    {
+        "id": "11",
+        "küsimus": "Inimese kehas on ... lihast? Täida lünk.",
+        "valikud": [
+            "184",
+            "260",
+            "486",
+            "650"
+        ],
+        "vastus": "D",
+        "punktid": "1",
+        "aasta": "2023",
+        "aste": "II",
+        "teema": "bioloogia"
+    },
+    {
+        "id": "12",
+        "küsimus": "Mis on epideemia? Vali kõige õigem vastusevariant.",
+        "valikud": [
+            "Paljude inimeste üheaegne haigestumine erinevatesse haigustesse",
+            "Paljude inimeste üheaegne haigestumine samasse haigusesse",
+            "Paljude inimeste üheaegne suremine"
+        ],
+        "vastus": "B",
+        "punktid": "1",
+        "aasta": "2023",
+        "aste": "II",
+        "teema": "bioloogia"
+    },
+    {
+        "id": "13",
+        "küsimus": "Taimed vajavad elutegevuseks vett. Järgnevalt on loetletud, mille jaoks taimed vett vajavad. Mille jaoks kulub taimedel vett kõige rohkem?",
+        "valikud": [
+            "Fotosünteesiks",
+            "Oma keha püsti hoidmiseks",
+            "Laskuva voolu alalhoidmiseks (orgaaniliste ainete transport taimes)",
+            "Tõusva voolu alalhoidmiseks (auramine lehtedest läbi õhulõhede)",
+            "Lehtede pööramiseks valguse poole",
+            "Mineraalainete kättesaamiseks mullast"
+        ],
+        "vastus": "D",
+        "punktid": "1",
+        "aasta": "2023",
+        "aste": "III",
+        "teema": "bioloogia"
+    },
+    {
+        "id": "14",
+        "küsimus": "2023. aasta orhidee oli valge tolmpea, kes on ohustatud liik. Talle on iseloomulik üks tolmlemise iseärasus, mis esineb ka mitmetel teistel käpalistel ja mis küll toimib, kuid vähendab siiski mõnevõrra nende viljumisedukust. Milline see on?",
+        "valikud": [
+            "Teda tolmeldab ainult üks kindel liik mesilasi perekonnast Halictus",
+            "Tema õites puudub nektar, aga tolmeldajaid meelitavad ligi kollane huul ja lõhnaained ehk siis ta n-ö petab tolmeldajaid",
+            "Teda tolmeldavad nälkjad, aga nad ei pääse väga hästi õitele ligi",
+            "Teda tolmeldavad sirelased, kelle tagakehale ei kleepu polliiniumid (õietolmu kogumikud) hästi kinni"
+        ],
+        "vastus": "B",
+        "punktid": "1",
+        "aasta": "2023",
+        "aste": "III",
+        "teema": "bioloogia"
+    },
+    {
+        "id": "15",
+        "küsimus": "Samblike olemasolu järgi saab määrata õhu kvaliteeti. Üldiselt samblikud kaovad saastatud keskkonnast, aga mõnele samblikule, näiteks seinakorbale, sobib kui keskkonnas on palju mingeid keemilisi ühendeid. Milliseid keemilisi ühendeid seinakorba elukeskkonnas rohkem leidub?",
+        "valikud": [
+            "Väävliühendeid",
+            "Süsinikuühendid",
+            "Lämmastikuühendeid"
+        ],
+        "vastus": "C",
+        "punktid": "1",
+        "aasta": "2023",
+        "aste": "III",
+        "teema": "bioloogia"
+    },
+    {
+        "id": "16",
+        "küsimus": "Milline seen moodustab kõige sagedamini mükoriisa hariliku tammega?",
+        "valikud": [
+            "Kivipuravik",
+            "Suur sirmik",
+            "Kamperriisikas",
+            "Kevadkogrits"
+        ],
+        "vastus": "A",
+        "punktid": "1",
+        "aasta": "2023",
+        "aste": "III",
+        "teema": "bioloogia"
+    },
+    {
+        "id": "17",
+        "küsimus": "Mis on kestumine?",
+        "valikud": [
+            "Tugeva lisakesta kasvatamine enesekaitseks",
+            "Perioodiline väliskesta vahetus kasvamisel",
+            "Eriline pooldumistüüp pärmseentel"
+        ],
+        "vastus": "B",
+        "punktid": "1",
+        "aasta": "2023",
+        "aste": "III",
+        "teema": "bioloogia"
+    },
+    {
+        "id": "18",
+        "küsimus": "Milline väide inimese kujunemise kohta on vale?",
+        "valikud": [
+            "Esimesi inimese liini esindajaid nimetatakse australopiteekideks",
+            "Nüüdisinimene arenes Aafrikas",
+            "Koos nüüdisinimesega elasid Aafrikas ka neandertallased",
+            "Samal ajal nüüdisinimesega elasid Euroopas ja Aasias ka neandertallased"
+        ],
+        "vastus": "D",
+        "punktid": "1",
+        "aasta": "2023",
+        "aste": "III",
+        "teema": "bioloogia"
+    },
+    {
+        "id": "19",
+        "küsimus": "Kus asuvad inimese kõige väiksemad luud?",
+        "valikud": [
+            "Suus",
+            "Ninas",
+            "Kõrvas",
+            "Käes",
+            "Jalas"
+        ],
+        "vastus": "C",
+        "punktid": "1",
+        "aasta": "2023",
+        "aste": "III",
+        "teema": "bioloogia"
+    },
+    {
+        "id": "20",
+        "küsimus": "Mis ei ole inimese immuunsüsteemi osaks?",
+        "valikud": [
+            "Valged vererakud",
+            "Lümfisooned",
+            "Lümfisõlmed",
+            "Põrn",
+            "Harkelund",
+            "Maks"
+        ],
+        "vastus": "F",
+        "punktid": "1",
+        "aasta": "2023",
+        "aste": "III",
+        "teema": "bioloogia"
+    },
+    {
+        "id": "21",
+        "küsimus": "Pärilikkuseaines DNA sisalduva info alusel valmistatakse kehas ....",
+        "valikud": [
+            "valgud",
+            "süsivesikud",
+            "rasvamolekulid",
+            "mineraalained"
+        ],
+        "vastus": "A",
+        "punktid": "1",
+        "aasta": "2023",
+        "aste": "III",
+        "teema": "bioloogia"
+    }
+]
